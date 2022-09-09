@@ -1,0 +1,15 @@
+/home/dan/C#/caesar-cipher/bin/Debug/net6.0/caesar-cipher
+/home/dan/C#/caesar-cipher/bin/Debug/net6.0/caesar-cipher.deps.json
+/home/dan/C#/caesar-cipher/bin/Debug/net6.0/caesar-cipher.runtimeconfig.json
+/home/dan/C#/caesar-cipher/bin/Debug/net6.0/caesar-cipher.dll
+/home/dan/C#/caesar-cipher/bin/Debug/net6.0/caesar-cipher.pdb
+/home/dan/C#/caesar-cipher/obj/Debug/net6.0/caesar-cipher.csproj.AssemblyReference.cache
+/home/dan/C#/caesar-cipher/obj/Debug/net6.0/caesar-cipher.GeneratedMSBuildEditorConfig.editorconfig
+/home/dan/C#/caesar-cipher/obj/Debug/net6.0/caesar-cipher.AssemblyInfoInputs.cache
+/home/dan/C#/caesar-cipher/obj/Debug/net6.0/caesar-cipher.AssemblyInfo.cs
+/home/dan/C#/caesar-cipher/obj/Debug/net6.0/caesar-cipher.csproj.CoreCompileInputs.cache
+/home/dan/C#/caesar-cipher/obj/Debug/net6.0/caesar-cipher.dll
+/home/dan/C#/caesar-cipher/obj/Debug/net6.0/refint/caesar-cipher.dll
+/home/dan/C#/caesar-cipher/obj/Debug/net6.0/caesar-cipher.pdb
+/home/dan/C#/caesar-cipher/obj/Debug/net6.0/caesar-cipher.genruntimeconfig.cache
+/home/dan/C#/caesar-cipher/obj/Debug/net6.0/ref/caesar-cipher.dll
