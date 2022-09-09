@@ -15,7 +15,11 @@
 
       for (int i = 0; i < secretMessage.Length; i++)
       {
-        
+        char letter = secretMessage[i];
+
+        int letterPosition = Array.IndexOf(alphabet, letter);
+
+        int disguisedValue = letterPosition + 3;
       }
     }
   }
